@@ -1,0 +1,10 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: N"
+"com.alex.grep.GrepBWithMappedFile.parStream","thrpt",1,20,729.828881,21.566743,"ops/s",10000
+"com.alex.grep.GrepBWithMappedFile.parStream","thrpt",1,20,71.005089,7.941186,"ops/s",100000
+"com.alex.grep.GrepBWithMappedFile.parStream","thrpt",1,20,6.998385,0.287089,"ops/s",1000000
+"com.alex.grep.GrepBWithMappedFile.seqStream","thrpt",1,20,204.846207,4.245785,"ops/s",10000
+"com.alex.grep.GrepBWithMappedFile.seqStream","thrpt",1,20,20.419221,0.290472,"ops/s",100000
+"com.alex.grep.GrepBWithMappedFile.seqStream","thrpt",1,20,2.038883,0.008403,"ops/s",1000000
+"com.alex.grep.GrepBWithMappedFile.sequential","thrpt",1,20,107.643585,0.788473,"ops/s",10000
+"com.alex.grep.GrepBWithMappedFile.sequential","thrpt",1,20,10.112813,0.039626,"ops/s",100000
+"com.alex.grep.GrepBWithMappedFile.sequential","thrpt",1,20,1.052672,0.007856,"ops/s",1000000

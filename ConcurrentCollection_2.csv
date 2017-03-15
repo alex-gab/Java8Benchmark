@@ -1,0 +1,21 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: size"
+"com.alex.ConcurrentCollection_2.concurrent","thrpt",1,20,5756.882797,151.132721,"ops/s",1000
+"com.alex.ConcurrentCollection_2.concurrent","thrpt",1,20,807.959432,6.482806,"ops/s",10000
+"com.alex.ConcurrentCollection_2.concurrent","thrpt",1,20,54.948588,1.870439,"ops/s",100000
+"com.alex.ConcurrentCollection_2.concurrent","thrpt",1,20,6.585059,0.054046,"ops/s",1000000
+"com.alex.ConcurrentCollection_2.concurrentPresize","thrpt",1,20,9258.152419,121.798680,"ops/s",1000
+"com.alex.ConcurrentCollection_2.concurrentPresize","thrpt",1,20,1124.741859,7.278975,"ops/s",10000
+"com.alex.ConcurrentCollection_2.concurrentPresize","thrpt",1,20,59.549829,0.226753,"ops/s",100000
+"com.alex.ConcurrentCollection_2.concurrentPresize","thrpt",1,20,7.288923,0.116790,"ops/s",1000000
+"com.alex.ConcurrentCollection_2.sequential","thrpt",1,20,11231.738117,100.076851,"ops/s",1000
+"com.alex.ConcurrentCollection_2.sequential","thrpt",1,20,1023.047117,7.912661,"ops/s",10000
+"com.alex.ConcurrentCollection_2.sequential","thrpt",1,20,66.779607,0.241263,"ops/s",100000
+"com.alex.ConcurrentCollection_2.sequential","thrpt",1,20,5.076974,0.111798,"ops/s",1000000
+"com.alex.ConcurrentCollection_2.sequentialPresize","thrpt",1,20,15474.222133,132.007529,"ops/s",1000
+"com.alex.ConcurrentCollection_2.sequentialPresize","thrpt",1,20,1079.496822,5.836171,"ops/s",10000
+"com.alex.ConcurrentCollection_2.sequentialPresize","thrpt",1,20,59.741030,0.334640,"ops/s",100000
+"com.alex.ConcurrentCollection_2.sequentialPresize","thrpt",1,20,3.848818,0.409501,"ops/s",1000000
+"com.alex.ConcurrentCollection_2.sequentialPresizeCHM","thrpt",1,20,6370.192693,81.458450,"ops/s",1000
+"com.alex.ConcurrentCollection_2.sequentialPresizeCHM","thrpt",1,20,665.975946,3.894933,"ops/s",10000
+"com.alex.ConcurrentCollection_2.sequentialPresizeCHM","thrpt",1,20,30.776561,0.195122,"ops/s",100000
+"com.alex.ConcurrentCollection_2.sequentialPresizeCHM","thrpt",1,20,2.202606,0.271818,"ops/s",1000000

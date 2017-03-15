@@ -1,0 +1,13 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: length"
+"com.alex.MaxDistance.loop","thrpt",1,20,28073659.061064,415656.646537,"ops/s",1
+"com.alex.MaxDistance.loop","thrpt",1,20,535616.256711,1093.982258,"ops/s",100
+"com.alex.MaxDistance.loop","thrpt",1,20,7039.441343,37.859225,"ops/s",10000
+"com.alex.MaxDistance.loop","thrpt",1,20,53.451059,1.086990,"ops/s",1000000
+"com.alex.MaxDistance.parallel","thrpt",1,20,12328634.589012,198758.660803,"ops/s",1
+"com.alex.MaxDistance.parallel","thrpt",1,20,122076.036553,3030.458275,"ops/s",100
+"com.alex.MaxDistance.parallel","thrpt",1,20,30808.295043,98.446964,"ops/s",10000
+"com.alex.MaxDistance.parallel","thrpt",1,20,257.337973,1.169724,"ops/s",1000000
+"com.alex.MaxDistance.sequential","thrpt",1,20,19134846.888267,29088.052279,"ops/s",1
+"com.alex.MaxDistance.sequential","thrpt",1,20,1090113.217686,2063.142356,"ops/s",100
+"com.alex.MaxDistance.sequential","thrpt",1,20,11081.689706,4.766477,"ops/s",10000
+"com.alex.MaxDistance.sequential","thrpt",1,20,108.841599,0.353605,"ops/s",1000000

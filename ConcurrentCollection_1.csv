@@ -1,0 +1,5 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"com.alex.ConcurrentCollection_1.concurrent","thrpt",1,20,4859.585616,119.376544,"ops/s"
+"com.alex.ConcurrentCollection_1.concurrent_unordered","thrpt",1,20,4935.250639,344.145989,"ops/s"
+"com.alex.ConcurrentCollection_1.sequential","thrpt",1,20,10212.816611,344.492489,"ops/s"
+"com.alex.ConcurrentCollection_1.sequential_unordered","thrpt",1,20,10021.446356,596.701970,"ops/s"
